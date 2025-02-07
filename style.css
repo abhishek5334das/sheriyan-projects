@@ -1,0 +1,40 @@
+#container{
+    background-color: rgb(231, 227, 227);
+}
+#heading-1{
+ 
+    padding: 2px 0px 0px 0px;
+}
+#nav{
+    background-color: rgb(7, 144, 235);
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+  #nav a{
+      color: white;
+      padding: 2px;
+      text-decoration: none;
+  }
+  #nav .pipe{
+    color: black;
+    padding: 2px 4px 2px 4px;
+  }
+  .firstblog{
+    background-color: white;
+    margin: 2px 2px 2px 2px;
+    padding:5px;
+  }
+  .secondblog{
+    background-color: white;
+    margin: 2px 2px 2px 2px;
+    padding:5px;
+  }
+  .footer{
+    background-color:black;
+    text-align: center;
+    padding: 8px;
+    color: white    ;
+}
+  
